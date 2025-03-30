@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_cfgstar"
+description = "A per channel implementation of the scaled CFG from this paper: https://arxiv.org/abs/2503.18886"
+version = "1.0.0"
+license = { text = "GNU General Public License v3.0" }
+
+[project.urls]
+Repository = "https://github.com/bvhari/ComfyUI_CFGStar"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "bvhari"
+DisplayName = "ComfyUI_CFGStar"
+Icon = ""
